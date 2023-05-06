@@ -1,1 +1,3 @@
 synchorinzation try (lection1)
+
+Add some changes from other branch (issue something...)
