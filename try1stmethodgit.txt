@@ -4,4 +4,6 @@ bla bla
 
 Пробуем еще один удаленный репо (два репо подключены одновременно
 
+Correction on remote server
+here we go!
 
